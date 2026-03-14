@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.env
+news_bot.db
+*.sqlite3
+.idea/
+.vscode/
+.DS_Store
+logs/
