@@ -1,1 +1,0 @@
-# slovenia-news-bot
